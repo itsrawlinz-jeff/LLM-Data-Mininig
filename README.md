@@ -1,2 +1,4 @@
 # LLM-Data-Mininig
-DATA MINING 
+DATASET Collected FOR LLM MODEL
+
+Jeffrey Rowlings
